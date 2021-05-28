@@ -13,3 +13,6 @@ For the better result I used bgsegm methods like MOG, MOG 2, KNN, GMG. In my exp
 But methods result depends on your video file, video clearity and filters like blur, morphologyex etc. 
 In my project I used gaussian blur, morphologyex methods( ERODE, CLOSE) for elimate unimportant details.
 
+<b> LOGIC </b>
+The logic is actually simple. We're reading frame by frame the video with infinity for loop until cannot read frame, and using some gaussian blur and morphologyex methods for clearing unimportant details after all this process I am using findContours for the determining contours. For drawing circle I am using minEnclosingCircle method for find center of min circle and radius from set of dots. Thanks for reading.
+
