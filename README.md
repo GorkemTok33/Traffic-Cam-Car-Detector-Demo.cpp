@@ -1,6 +1,7 @@
 # Traffic-Cam-Car-Detector-Demo.cpp
 
-Author: GÖRKEM TOK							                                             
+Author: GÖRKEM TOK
+preview video link: https://www.youtube.com/watch?v=02lOu2_7KnI
 Email: ceng.gorkem.tok@gmail.com					                                   
 Linkedin: https://www.linkedin.com/in/gorkem-tok33/                          
 Language: C++                                                                
