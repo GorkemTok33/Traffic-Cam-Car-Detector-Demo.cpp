@@ -1,14 +1,11 @@
 # Traffic-Cam-Car-Detector-Demo.cpp
-______________________________________________________________________________
-_____________________________________________________________________________ |
-Author: GÖRKEM TOK							                                             ||
-Email: ceng.gorkem.tok@gmail.com					                                   ||
-Linkedin: https://www.linkedin.com/in/gorkem-tok33/                          ||
-Language: C++                                                                ||
-Libraries: OpenCv 3.4                                                        ||
-_____________________________________________________________________________||
-______________________________________________________________________________|
-*/
+
+Author: GÖRKEM TOK							                                             
+Email: ceng.gorkem.tok@gmail.com					                                   
+Linkedin: https://www.linkedin.com/in/gorkem-tok33/                          
+Language: C++                                                                
+Libraries: OpenCv 3.4                                                       
+
 
 This project aims to detect cars using subtraction between two frames. 
 For the better result I used bgsegm methods like MOG, MOG 2, KNN, GMG. In my experience best method is MOG2 from bgsegm methods. 
