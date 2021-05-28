@@ -1,11 +1,11 @@
 # Traffic-Cam-Car-Detector-Demo.cpp
 
 Author: GÖRKEM TOK <br>
-Preview video link: https://www.youtube.com/watch?v=02lOu2_7KnI
-Email: ceng.gorkem.tok@gmail.com					                                   
-Linkedin: https://www.linkedin.com/in/gorkem-tok33/                          
-Language: C++                                                                
-Libraries: OpenCv 3.4                                                       
+Preview video link: https://www.youtube.com/watch?v=02lOu2_7KnI <br>
+Email: ceng.gorkem.tok@gmail.com	<br>				                                   
+Linkedin: https://www.linkedin.com/in/gorkem-tok33/ <br>                         
+Language: C++   <br>                                                             
+Libraries: OpenCv 3.4     <br>                                                  
 
 ![Screenshot (213)](https://user-images.githubusercontent.com/79594881/120048347-81416d80-c01f-11eb-823e-918e30afab07.png)
 
